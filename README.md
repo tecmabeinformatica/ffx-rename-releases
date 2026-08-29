@@ -1,13 +1,11 @@
 # FFX Rename Releases
 
-Repositorio para publicar instaladores e binarios do FFX Rename.
+Repositorio para publicar instaladores do FFX Rename.
 
 ## Versao 1.0
 
-Arquivos esperados:
+Arquivo disponivel:
 
 ```text
 FFX Rename Setup.exe
-FFX Rename.exe
-Termo de responsabilidade.pdf
 ```
