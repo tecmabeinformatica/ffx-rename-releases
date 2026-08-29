@@ -6,6 +6,4 @@ Repositorio para publicar instaladores do FFX Rename.
 
 Arquivo disponivel:
 
-```text
-FFX Rename Setup.exe
-```
+[Baixar FFX Rename Setup.exe](https://github.com/tecmabeinformatica/ffx-rename-releases/raw/main/FFX%20Rename%20Setup.exe)
