@@ -1,9 +1,5 @@
-# FFX Rename Releases
+# FFX Rename TV
 
-Repositorio para publicar instaladores do FFX Rename.
+[Baixar instalador 2.0.0.11](https://github.com/tecmabeinformatica/ffx-rename-releases/releases/download/v2.0.0.11/FFXRenameTV-2.0.0.11-Setup.exe)
 
-## Versao 1.0
-
-Arquivo disponivel:
-
-[Baixar FFX Rename Setup.exe](https://github.com/tecmabeinformatica/ffx-rename-releases/raw/main/FFX%20Rename%20Setup.exe)
+Versões e notas de lançamento: [GitHub Releases](https://github.com/tecmabeinformatica/ffx-rename-releases/releases).
